@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo 1 Division de dos nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicacion de dos numeros modulo1", "multiplicacion de dos numeros modulo1\multiplicacion de dos numeros modulo1.csproj", "{B5F16726-AD9A-40D3-BE55-24AC468781EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros primos modulo.1", "numeros primos modulo.1\numeros primos modulo.1.csproj", "{56F4D73C-A816-4BBE-A9C3-AD995E3CED22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B5F16726-AD9A-40D3-BE55-24AC468781EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F16726-AD9A-40D3-BE55-24AC468781EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F16726-AD9A-40D3-BE55-24AC468781EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F4D73C-A816-4BBE-A9C3-AD995E3CED22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F4D73C-A816-4BBE-A9C3-AD995E3CED22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F4D73C-A816-4BBE-A9C3-AD995E3CED22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F4D73C-A816-4BBE-A9C3-AD995E3CED22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
