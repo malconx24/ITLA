@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serie de Fibonacci", "Serie de Fibonacci\Serie de Fibonacci.csproj", "{DED96FF1-CA65-4D19-9F44-E109949ACD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hola Mundo JM", "Hola Mundo JM\Hola Mundo JM.csproj", "{6247BBE1-54EC-434F-AFF2-03517ED7E844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma", "Suma\Suma.csproj", "{4E64D1A6-35B8-410A-BEED-FE2438591C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED96FF1-CA65-4D19-9F44-E109949ACD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED96FF1-CA65-4D19-9F44-E109949ACD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED96FF1-CA65-4D19-9F44-E109949ACD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED96FF1-CA65-4D19-9F44-E109949ACD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6247BBE1-54EC-434F-AFF2-03517ED7E844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6247BBE1-54EC-434F-AFF2-03517ED7E844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6247BBE1-54EC-434F-AFF2-03517ED7E844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6247BBE1-54EC-434F-AFF2-03517ED7E844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E64D1A6-35B8-410A-BEED-FE2438591C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E64D1A6-35B8-410A-BEED-FE2438591C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E64D1A6-35B8-410A-BEED-FE2438591C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E64D1A6-35B8-410A-BEED-FE2438591C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
