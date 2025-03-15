@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros desordenados modulo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio propuesto 1", "Ejercicio propuesto 1\Ejercicio propuesto 1.csproj", "{1B623271-9867-46AF-BB3F-A8F110F256D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calendario", "calendario\calendario.csproj", "{9FD0E373-F42C-45FF-81C1-B4418CD23048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1B623271-9867-46AF-BB3F-A8F110F256D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B623271-9867-46AF-BB3F-A8F110F256D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B623271-9867-46AF-BB3F-A8F110F256D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD0E373-F42C-45FF-81C1-B4418CD23048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD0E373-F42C-45FF-81C1-B4418CD23048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD0E373-F42C-45FF-81C1-B4418CD23048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD0E373-F42C-45FF-81C1-B4418CD23048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
