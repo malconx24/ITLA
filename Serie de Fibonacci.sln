@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros primos modulo.1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros impares.modulo1", "numeros impares.modulo1\numeros impares.modulo1.csproj", "{AC35F2DA-29FE-48F1-98DD-73B1255A1257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serie fibonacci. modulo1", "serie fibonacci. modulo1.\serie fibonacci. modulo1.csproj", "{DE03584F-9622-4660-90A9-6CD28A45B732}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serie fibonacci. modulo1", "serie fibonacci. modulo1\serie fibonacci. modulo1.csproj", "{DE03584F-9622-4660-90A9-6CD28A45B732}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeros desordenados modulo2", "numeros desordenados modulo2\numeros desordenados modulo2.csproj", "{58133AD7-A04F-425A-9D95-D17E1B819A07}"
 EndProject
@@ -28,6 +28,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calendario", "calendario\calendario.csproj", "{9FD0E373-F42C-45FF-81C1-B4418CD23048}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio. propuesto3", "Ejercicio. propuesto3\Ejercicio. propuesto3.csproj", "{CAC83E7E-DB20-41A8-95C7-9BE4E8777917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo 4", "Modulo 4\Modulo 4.csproj", "{73E7BF05-156C-4F26-B641-2F240E6A9432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo 2 suma", "Modulo 2 suma\Modulo 2 suma.csproj", "{7E1FA79E-4FCE-4C07-B02E-28F2B67C707F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resta modulo2", "resta modulo2\resta modulo2.csproj", "{AB2DE067-4D21-4B50-B886-C9E7D6B763CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicar. modulo 2", "multiplicar. modulo 2.\multiplicar. modulo 2.csproj", "{3DDEF8DC-56CE-4800-B04E-98BC03842570}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{CAC83E7E-DB20-41A8-95C7-9BE4E8777917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC83E7E-DB20-41A8-95C7-9BE4E8777917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC83E7E-DB20-41A8-95C7-9BE4E8777917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E7BF05-156C-4F26-B641-2F240E6A9432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E7BF05-156C-4F26-B641-2F240E6A9432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E7BF05-156C-4F26-B641-2F240E6A9432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E7BF05-156C-4F26-B641-2F240E6A9432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1FA79E-4FCE-4C07-B02E-28F2B67C707F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1FA79E-4FCE-4C07-B02E-28F2B67C707F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1FA79E-4FCE-4C07-B02E-28F2B67C707F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1FA79E-4FCE-4C07-B02E-28F2B67C707F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2DE067-4D21-4B50-B886-C9E7D6B763CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2DE067-4D21-4B50-B886-C9E7D6B763CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2DE067-4D21-4B50-B886-C9E7D6B763CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2DE067-4D21-4B50-B886-C9E7D6B763CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDEF8DC-56CE-4800-B04E-98BC03842570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDEF8DC-56CE-4800-B04E-98BC03842570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDEF8DC-56CE-4800-B04E-98BC03842570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDEF8DC-56CE-4800-B04E-98BC03842570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
